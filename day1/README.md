@@ -1,4 +1,4 @@
-# Day 1 Solutions
+# Day 1: Python
 
 _Calorie counting elves..._
 
