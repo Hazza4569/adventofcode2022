@@ -28,6 +28,7 @@ for line in data:
         continue
     # otherwise add item to elf
     iElf.AddItem(line)
+if not iElf.IsEmpty(): elves.append(iElf)
 
 # > find max calorie elf
 callist = [e.Calories() for e in elves]
