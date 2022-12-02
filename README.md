@@ -14,6 +14,7 @@ awkward ones done first.
 Day | Language Used
 ----|--------------
 1   | Python
+2   | Bash
 
 ## Languages to try
 
@@ -25,10 +26,16 @@ Day | Language Used
  + Ruby
  + Julia
  + Perl
- + Bash
  + Visual Basic
  + R
  + Mathematica
+ + Go
+ + Raku
+ + Rust
+ + Kotlin
+ + Haskell
+ + Nim
+ + OCaml
 
 Probably for some of these the difficulty will be installing the
 necessary tools to compile/run the code
