@@ -17,3 +17,10 @@ Part 2 was essentially the same as Part 1, just rotating the opposite
 set of inputs in a different pattern. Didn't see a neat way to do the
 two parts in the same script, and they're so short anyway, so I split
 them into a script each.
+
+For fun I decided to combine both parts into one minimal script. I
+simplified some of the maths (and also tried to neaten up the
+{opp,you}Int assignment statement) to give an 8-line script to do
+everything. Fairly happy with the result. (The individual scripts are
+preferred still though as trying to follow the maths in the reduced
+script with no comments or flow is very difficult).
