@@ -15,6 +15,7 @@ Day | Language Used
 ----|--------------
 1   | Python
 2   | Bash
+3   | Ruby
 
 ## Languages to try
 
