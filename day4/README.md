@@ -1,6 +1,6 @@
 # Day 4: Java
 
-__Camp cleanup double counting...__
+_Camp cleanup double counting..._
 
 A language I've been wanting to try out for a long time -- Java.
 Having so far used 3 scripting languages, solving today's problem in

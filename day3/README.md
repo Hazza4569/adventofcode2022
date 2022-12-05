@@ -1,6 +1,6 @@
 # Day 3: Ruby
 
-__Packing rucksacks...__
+_Packing rucksacks..._
 
 Didn't have much time today so chose a language that I thought might
 be easy to pick up. Think Ruby was a good choice.
