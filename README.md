@@ -16,15 +16,14 @@ Day | Language Used
 1   | Python
 2   | Bash
 3   | Ruby
+4   | Java
 
 ## Languages to try
 
  + C++
  + C
  + JavaScript (/HTML)
- + Java
  + C#
- + Ruby
  + Julia
  + Perl
  + Visual Basic
