@@ -57,12 +57,10 @@ type Item interface{}
 type Stack struct {
     items []Item
 }
-
 // Push a single item from the top
 func (stack *Stack) Push(item Item) {
     stack.items = append(stack.items, item)
 }
-
 // Pop a single item from the top
 func (stack *Stack) Pop() (rtn Item) {
     n := len(stack.items)
@@ -71,7 +69,6 @@ func (stack *Stack) Pop() (rtn Item) {
     stack.items = stack.items[:n-1]
     return
 }
-
 // Peek at top element in the stack
 func (stack *Stack) Peek() (rtn Item) {
     n := len(stack.items)
@@ -79,12 +76,9 @@ func (stack *Stack) Peek() (rtn Item) {
     rtn = stack.items[n-1]
     return
 }
-
-// Push multiple items to the top, without flipping order
-func (stack *Stack) PushMulti(items []Item) {
+// Push multiple items to the top, without flipping order func (stack *Stack) PushMulti(items []Item) {
     stack.items = append(stack.items, items...)
 }
-
 // Pop N items from the top, without flipping order
 func (stack *Stack) PopN(n_pop int) (rtn []Item) {
     n := len(stack.items)
@@ -93,7 +87,6 @@ func (stack *Stack) PopN(n_pop int) (rtn []Item) {
     stack.items = stack.items[:n-n_pop]
     return
 }
-
 // Print stack to console
 func (stack *Stack) Print() {
     fmt.Printf("Stack [")
