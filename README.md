@@ -30,7 +30,6 @@ Day | Language Used
  + Visual Basic
  + R
  + Mathematica
- + Go
  + Raku
  + Rust
  + Kotlin
