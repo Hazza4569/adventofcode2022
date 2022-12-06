@@ -18,6 +18,7 @@ Day | Language Used
 3   | Ruby
 4   | Java
 5   | Go
+6   | Rust
 
 ## Languages to try
 
