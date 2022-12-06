@@ -17,6 +17,7 @@ Day | Language Used
 2   | Bash
 3   | Ruby
 4   | Java
+5   | Go
 
 ## Languages to try
 
