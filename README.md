@@ -19,6 +19,7 @@ Day | Language Used
 4   | Java
 5   | Go
 6   | Rust
+7   | Kotlin
 
 ## Languages to try
 
@@ -32,8 +33,6 @@ Day | Language Used
  + R
  + Mathematica
  + Raku
- + Rust
- + Kotlin
  + Haskell
  + Nim
  + OCaml
