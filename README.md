@@ -20,6 +20,7 @@ Day | Language Used
 5   | Go
 6   | Rust
 7   | Kotlin
+8   | Julia
 
 ## Languages to try
 
@@ -27,7 +28,6 @@ Day | Language Used
  + C
  + JavaScript (/HTML)
  + C#
- + Julia
  + Perl
  + Visual Basic
  + R
